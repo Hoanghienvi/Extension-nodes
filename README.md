@@ -9,3 +9,11 @@
 ### 
 ```Disk	over 100 gb SSD```
 
+### Download Git File
+
+``` git clone https://github.com/Hoanghienvi/Extension-nodes ```
+
+### Build Image 
+
+``` docker build -t extnodes-image . ```
+
